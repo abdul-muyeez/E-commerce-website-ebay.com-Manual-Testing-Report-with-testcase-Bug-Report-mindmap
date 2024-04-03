@@ -6,14 +6,15 @@ The manual testing of ebay.com was conducted to ensure the functionality, usabil
 ## Test Scenario
 | Test Scenario ID | Reference | Test Scenario Description | Priority | Number of Test Cases |
 |---|---|---|---|---|
-| TS_001 | Validate the URL in different browsers. | PO | 1 |
-| TS_002 | Validate the "Account Sign Up" functionality | P1 | 45 |
-| TS_003 | Validate the working of the "Account Sign In" functionality. | P1 | 20 |
-| TS_004 | Validate the working of the "Search" functionality. | P1 | 20 |
-| TS_005 | Validate the working of "Add to cart" functionality. | P1 | 10 |
-| TS_006 | Validate the working of "Payment" functionality. | P4 | 12 |
-| TS_007 | Validate the working of "Total amount" functionality. | P5 | 1 |
-| TS_009 | Validate the working of "SUPPORT" functionality. | P5 | 1 |
+| TS_001 |  | Validate the URL in different browsers. | P0 | 1 |
+| TS_002 |  | Validate the "Account Sign Up" functionality | P1 | 45 |
+| TS_003 |  | Validate the working of the "Account Sign In" functionality. | P1 | 20 |
+| TS_004 |  | Validate the working of the "Search" functionality. | P1 | 20 |
+| TS_005 |  | Validate the working of "Add to cart" functionality. | P1 | 10 |
+| TS_006 |  | Validate the working of "Payment" functionality. | P4 | 12 |
+| TS_007 |  | Validate the working of "Total amount" functionality. | P5 | 1 |
+| TS_009 |  | Validate the working of "SUPPORT" functionality. | P5 | 1 |
+
 
 ## Features
 - Browser Compatibilty
