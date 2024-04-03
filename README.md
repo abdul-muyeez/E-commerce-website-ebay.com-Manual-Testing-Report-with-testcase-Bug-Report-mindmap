@@ -3,6 +3,23 @@
 
 The manual testing of ebay.com was conducted to ensure the functionality, usability, and overall user experience of the e-commerce website. Various test scenarios were executed to identify any potential defects or issues that could impact the website's performance.
 
+## Test Scenario
+Test Scenario ID	 Reference	Test Scenario Description	Priority	Number of Test Cases
+TS_001		Validate the URL in different browsers.	P0	1
+				
+TS_002		Validate the "Account Sign Up" functionality	P1	45
+TS_003		Validate the working of the "Account Sign In" functionality.	P1	20
+				
+TS_004		Validate the working of the "Search" functionality.	P1	20
+TS_005		Validate the working of "Add to cart" functionality.	P1	10
+				
+TS_006		Validate the working of "Payment" functionality.	P4	12
+TS_007		Validate the working of  "Total amount" functionality.	P5	1
+				
+TS_009		Validate the working of  "SUPPORT"functionality.	P5	1
+![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/23c2152a-5968-410c-9529-9e9cc1f25d20)
+
+
 ## Features
 - Browser Compatibilty
 - Account - Sign Up & Sign In
@@ -67,5 +84,6 @@ This document outlines the manual testing process for ebay.com, divided into fiv
 -**Test report of Search & Add to Cart feature**
 ![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/6a6588bb-abec-4947-bd7a-2de95d6af077)
 -**Test report of Payment feature**
-![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/1e112730-d4d7-4ecf-9f8d-44cde03c9a04)
+![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/d03b5dc9-5128-445a-8ed6-206208425e92)
+
 
