@@ -18,8 +18,45 @@ The manual testing of ebay.com was conducted to ensure the functionality, usabil
 - Xmind
 - Excel
 
+##**Roadmap for Manual Testing**
 
-## Roadmap
+## eBay Manual Testing Process: A Summary
+
+This document outlines the manual testing process for ebay.com, divided into five key phases:
+
+**Phase 1: Preparation**
+
+* **Requirements Gathering:** Understand ebay.com's features from the provided documentation.
+* **Environment Setup:** Ensure internet access, install various web browsers, and create an eBay account if needed.
+* **Testing Tools:** Utilize Xmind for test scenario mind maps and Excel for test case management and reporting.
+
+**Phase 2: Test Scenario Planning**
+
+* **Mind Map Creation:** Develop a mind map in Xmind outlining test scenarios for core functionalities (registration, search, checkout, etc.).
+
+  **Mind map**
+    ```console 
+    https://www.dropbox.com/scl/fi/qtld8uswmgbztrgkejadx/ebay.com.xmind?rlkey=pmap83mmvzj4u5op1sq7nkgwc&dl=0
+    ```
+    
+* **Test Case Creation:** Based on the mind map, create detailed test cases with steps to reproduce, expected results, and any preconditions.
+
+**Phase 3: Execution**
+
+* **Test Environment Setup:** Open a web browser and log in to the eBay account if necessary for specific test cases.
+* **Test Execution:** Run each test case, record observations and actual results, and document deviations in Excel.
+* **Bug Reporting:** If issues arise, document them in a bug report template with details like description, severity, and steps to reproduce.
+
+**Phase 4: Analysis and Reporting**
+
+* **Bug Triage:** Prioritize identified bugs based on their impact on the application.
+* **Test Results Compilation:** Summarize test execution data from Excel into a comprehensive manual testing report, including the pass/fail status for each scenario.
+
+**Phase 5: Closure**
+
+* **Final Documentation:** Finalize and store all testing documentation (report, test cases, bug reports) in a designated repository.
+
+
 
 - Mind map
    ```console 
@@ -30,12 +67,12 @@ The manual testing of ebay.com was conducted to ensure the functionality, usabil
 
 ## Screenshots
 
-- mindmap
+- **mindmap**
 ![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/1a27ed62-d21a-4fd7-918d-64a1152b56c5)
--test report of Sign Up & In feature
+-**Test report of Sign Up & In feature**
 ![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/e0d1f8f7-5eda-466d-a569-0a502ff81dc8)
--test report of Search & Add to Cart feature
+-**Test report of Search & Add to Cart feature**
 ![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/6a6588bb-abec-4947-bd7a-2de95d6af077)
--test report of Payment feature
+-**Test report of Payment feature**
 ![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/1e112730-d4d7-4ecf-9f8d-44cde03c9a04)
 
