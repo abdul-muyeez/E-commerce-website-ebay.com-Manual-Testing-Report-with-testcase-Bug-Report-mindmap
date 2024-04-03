@@ -1,9 +1,9 @@
 
-# E-commerce website's ebay.com Manual Testing Report with Bug Report
+# **E-commerce website's ebay.com Manual Testing Report with Bug Report**
 
 The manual testing of ebay.com was conducted to ensure the functionality, usability, and overall user experience of the e-commerce website. Various test scenarios were executed to identify any potential defects or issues that could impact the website's performance.
 
-## Test Scenario
+## **Test Scenario**
 | Test Scenario ID | Reference | Test Scenario Description | Priority | Number of Test Cases |
 |---|---|---|---|---|
 | TS_001 |  | Validate the URL in different browsers. | P0 | 1 |
@@ -16,7 +16,7 @@ The manual testing of ebay.com was conducted to ensure the functionality, usabil
 | TS_009 |  | Validate the working of "SUPPORT" functionality. | P5 | 1 |
 
 
-## Features
+## **Features**
 - Browser Compatibilty
 - Account - Sign Up & Sign In
 - Search
@@ -24,18 +24,14 @@ The manual testing of ebay.com was conducted to ensure the functionality, usabil
 - Payment
 - Support
 
-## Pre-request
+## **Pre-request**
 - Access to the internet
 - Web browser (Chrome, Firefox, Safari, etc.)
 - User account for ebay.com (for certain test scenarios)
 - Xmind
 - Excel
 
-##**Roadmap for Manual Testing**
-
-## eBay Manual Testing Process: A Summary
-
-This document outlines the manual testing process for ebay.com, divided into five key phases:
+## **Roadmap for Manual Testing**
 
 **Phase 1: Preparation**
 
@@ -71,7 +67,7 @@ This document outlines the manual testing process for ebay.com, divided into fiv
 
 
 
-## Screenshots
+## **Screenshots**
 
 - **mindmap**
 ![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/1a27ed62-d21a-4fd7-918d-64a1152b56c5)
