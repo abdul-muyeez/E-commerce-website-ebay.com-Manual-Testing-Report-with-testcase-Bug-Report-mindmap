@@ -58,13 +58,6 @@ This document outlines the manual testing process for ebay.com, divided into fiv
 
 
 
-- Mind map
-   ```console 
-  https://www.dropbox.com/scl/fi/qtld8uswmgbztrgkejadx/ebay.com.xmind?rlkey=pmap83mmvzj4u5op1sq7nkgwc&dl=0
-  ```
-
-
-
 ## Screenshots
 
 - **mindmap**
