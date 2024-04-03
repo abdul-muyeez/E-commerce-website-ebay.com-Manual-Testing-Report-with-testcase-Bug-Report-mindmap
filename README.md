@@ -14,8 +14,6 @@ The manual testing of ebay.com was conducted to ensure the functionality, usabil
 | TS_006 | Validate the working of "Payment" functionality. | P4 | 12 |
 | TS_007 | Validate the working of "Total amount" functionality. | P5 | 1 |
 | TS_009 | Validate the working of "SUPPORT" functionality. | P5 | 1 |
-![image](https://github.com/abdul-muyeez/E-commerce-website-ebay.com-Manual-Testing-Report-with-testcase-Bug-Report-mindmap/assets/136342156/23c2152a-5968-410c-9529-9e9cc1f25d20)
-
 
 ## Features
 - Browser Compatibilty
